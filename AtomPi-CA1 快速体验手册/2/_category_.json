@@ -1,0 +1,9 @@
+{
+  "label": "第二章 烧写Debian系统",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description":"卡片电脑出厂默认烧写的系统的Debian系统。你可以无需再烧写。这里是体验如何将系统烧写到卡片电脑上。"
+  }
+  
+}
